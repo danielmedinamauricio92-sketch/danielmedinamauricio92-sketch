@@ -1,4 +1,4 @@
-# Hola 👋, soy Mauricio Medina
+# Hola 👋, soy Daniel Medina
 
 ### Frontend Developer | React · Next.js · TypeScript
 
